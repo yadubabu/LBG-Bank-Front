@@ -1,0 +1,22 @@
+.navbar{
+    margin-top: 40px;
+    position: absolute;
+    width: 100%;
+    height: 25vh;
+    background-color: lightslategray;
+    
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    margin-left: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    
+}

@@ -1,0 +1,32 @@
+.login{
+    background-color: white;
+    height: auto;  
+    z-index: 999;
+    border: 2px lightgrey solid;
+    margin-top: 140px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: 80vw;
+    margin-bottom: 20px;
+
+}
+.top{
+    text-align: center;
+    margin: 20px 0;
+    color:black;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+.btn{
+    background-color: lightskyblue;
+    margin: 10px;
+    margin-left: 180px;
+}
+.btn:hover{
+    background-color: yellow;
+    color: black;
+}
